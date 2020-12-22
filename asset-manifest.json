@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jake-kent.github.io/static/css/main.b4926d1a.chunk.css",
+    "main.js": "/jake-kent.github.io/static/js/main.66e3b0dd.chunk.js",
+    "main.js.map": "/jake-kent.github.io/static/js/main.66e3b0dd.chunk.js.map",
+    "runtime-main.js": "/jake-kent.github.io/static/js/runtime-main.70a903ab.js",
+    "runtime-main.js.map": "/jake-kent.github.io/static/js/runtime-main.70a903ab.js.map",
+    "static/js/2.2282db06.chunk.js": "/jake-kent.github.io/static/js/2.2282db06.chunk.js",
+    "static/js/2.2282db06.chunk.js.map": "/jake-kent.github.io/static/js/2.2282db06.chunk.js.map",
+    "static/js/3.89f154a8.chunk.js": "/jake-kent.github.io/static/js/3.89f154a8.chunk.js",
+    "static/js/3.89f154a8.chunk.js.map": "/jake-kent.github.io/static/js/3.89f154a8.chunk.js.map",
+    "index.html": "/jake-kent.github.io/index.html",
+    "static/css/main.b4926d1a.chunk.css.map": "/jake-kent.github.io/static/css/main.b4926d1a.chunk.css.map",
+    "static/js/2.2282db06.chunk.js.LICENSE.txt": "/jake-kent.github.io/static/js/2.2282db06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70a903ab.js",
+    "static/js/2.2282db06.chunk.js",
+    "static/css/main.b4926d1a.chunk.css",
+    "static/js/main.66e3b0dd.chunk.js"
+  ]
+}
